@@ -4,6 +4,8 @@ Next.js(App Router)와 TypeScript를 사용해 구현한 Todo List 애플리케�
 Next.js(App Router)와 TypeScript를 사용해 구현한 Todo List 애플리케이션입니다.
 과제 요구사항에 맞춰 할 일 CRUD, 이미지 업로드, 반응형 UI를 구현했습니다.
 
+배포주소 : https://todolist-psi-jade.vercel.app/
+
 💫 기술스택:
 🔵 Framework: Next.js (App Router)
 🔵 Language: TypeScript
