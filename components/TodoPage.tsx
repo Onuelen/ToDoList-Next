@@ -101,7 +101,9 @@ export default function TodoPage() {
                         px-4
                         py-3
                       "
-                      onClick={() => router.push(`/items/${todo.id}`)}
+                      onClick={() => {
+                        router.push(`/items/${todo.id}`);
+                      }}
                     >
                       <button
                         onClick={(e) => {
